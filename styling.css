@@ -1,0 +1,11 @@
+/* Making the div visible */
+.block {
+	width: 100px;
+	height: 100px;
+	background-color: green;
+}
+
+/*  :hover is the CSS Selector here, find more at https://www.w3schools.com/cssref/css_selectors.asp  */
+#ColorChange:hover {
+	background-color: blue;
+}
